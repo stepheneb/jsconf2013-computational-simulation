@@ -1,0 +1,18 @@
+#########################################
+# slideshow configuration defaults
+#
+#   override settings in:
+#     ~/slideshow.yml in home folder
+#        or
+#     ./slideshow.yml in working folder
+
+
+######################
+# lets you define default/fallback headers
+
+headers:
+  author:  Stephen Bannasch
+  email:   stephen.bannasch@gmail.com
+  title:   HTML5 Computational Simulation
+  footer: http://lab.concord.org
+  subfooter: https://github.com/concord-consortium/lab
