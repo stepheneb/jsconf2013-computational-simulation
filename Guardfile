@@ -3,7 +3,7 @@ ignore %r{(bin|s6)}
 system("bin/slideshow index.md")
 
 guard 'shell' do
-  watch "(index.md|slideshow.yml)" do
+  watch /(index.md|slideshow.yml)/ do
     system("bin/slideshow index.md")
   end
 end
