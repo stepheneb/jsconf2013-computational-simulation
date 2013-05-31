@@ -14,20 +14,19 @@ A framework for HTML5-based scientific modeling, visualization, graphing, and pr
 
 # Multiple Modeling Engines
 
-1. MD2D: 2D molecular modeling
-2. Solar System
-3. Signal Generator
-4. Probeware (Sensor)
+### 1. MD2D: 2D molecular modeling
+
+### 2. Solar System
+
+### 3. Signal Generator
+
+### 4. Probeware (Sensor)
 
 # MD2D: Oil and Water
 
-[http://lab.concord.org/interactives.html#interactives/samples/1-oil-and-water-shake.json](http://lab.concord.org/interactives.html#interactives/samples/1-oil-and-water-shake.json)
-
-<iframe width="682px" height="409px" frameborder="no" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" src="http://lab.concord.org/embeddable.html#interactives/samples/1-oil-and-water-shake.json"></iframe>
+<iframe width="882px" height="609px" frameborder="no" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" src="http://lab.concord.org/embeddable.html#interactives/samples/1-oil-and-water-shake.json"></iframe>
 
 # MD2D: Charged and Neutral Atoms
-
-[http://lab.concord.org/interactives.html#interactives/samples/3-100-atoms.json](http://lab.concord.org/interactives.html#interactives/samples/3-100-atoms.json)
 
 <iframe width="675px" height="496px" frameborder="no" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" src="http://lab.concord.org/embeddable.html#interactives/samples/3-100-atoms.json"></iframe>
 
@@ -56,6 +55,28 @@ _Currently in early development._
 _Currently in early development._
 
 <iframe width="943px" height="590px" frameborder="no" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" src="http://lab.concord.org/embeddable.html#interactives/conversion-tests/quantum-emission.json"></iframe>
+
+# Solar System Model Type
+
+_Currently in early development._
+
+<iframe width="943px" height="590px" frameborder="no" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" src="http://lab.concord.org/embeddable.html#interactives/solar-system/earth.json"></iframe>
+
+# Signal generator model-type
+
+_Currently in early development._
+
+<iframe width="798px" height="598px" frameborder="no" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" src="http://lab.concord.org/embeddable.html#interactives/signal-generator/signal-generator.json"></iframe>
+
+# Probeware (sensor) model-type
+
+_Currently in early development._
+
+NOTE: this interactive uses an invisible Java applet to connect to a
+[Vernier GoMotion](http://www.vernier.com/products/sensors/motion-detectors/go-mot/)
+sonar ranger.
+
+[http://lab.concord.org/embeddable.html#interactives/sensor/sensor.json](http://lab.concord.org/embeddable.html#interactives/sensor/sensor.json)
 
 # Where can I find this presentation later?
 
