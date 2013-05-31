@@ -1,5 +1,4 @@
 bin
 s6
-*.css
-*.html
 .bundle
+*.md
